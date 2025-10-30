@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning on learning mobile apps development, web design and general IT topics.
 - 📚 I'm enjoy Graphics designer, PC Gaming and Electronics devices maintain.
-- 🔭 I'm currently working on shading my skills programming languages like java, kotlin, C++ and Python. 
+- 🔭 I'm currently working on shading my skills programming languages like java, kotlin, C++ and Python.
 
+
+
+My Stackoverflow profile:
 <a href="https://stackoverflow.com/users/7734566/ali-haider"><img src="https://stackoverflow.com/users/flair/7734566.png" width="208" height="58" alt="profile for Ali Haider at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ali Haider at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
