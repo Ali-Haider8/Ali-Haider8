@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning on learning mobile apps development, web design and general IT topics.
+- 🌱 I’m currently focusing on learning mobile apps development, web design and general IT topics.
 - 📚 I'm enjoy Graphics designer, PC Gaming and Electronics devices maintain.
-- 🔭 I'm currently working on shading my skills programming languages like java, kotlin, C++ and Python.
+- 🔭 I'm currently working on have programming skills in java, kotlin, C++ and Python.
 
 
 
