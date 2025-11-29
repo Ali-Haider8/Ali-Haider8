@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 My Stackoverflow profile:
 <br>
-<a href="https://stackexchange.com/users/10493557"><img src="https://stackexchange.com/users/flair/10493557.png?theme=dark" width="208" height="58" alt="profile for Ali Haider on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Ali Haider on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackoverflow.com/users/7734566/ali-haider"><img src="https://stackoverflow.com/users/flair/7734566.png?theme=dark" width="208" height="58" alt="profile for Ali Haider at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ali Haider at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
