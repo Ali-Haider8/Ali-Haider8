@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently focusing on learning mobile apps development, web design and general IT topics.
 - 📚 I'm enjoy Graphics designer, PC Gaming and Electronics devices maintain.
-- 🔭 I'm currently working on have programming skills in java, kotlin, C++ and Python.
+- 🔭 I'm working on have programming skills in java, kotlin, C++ and Python.
 
 
 
