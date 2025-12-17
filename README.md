@@ -1,26 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Ali
 
-<!--
-**Ali-Haider8/Ali-Haider8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Interested in Software Development & IT  
+🌱 Currently learning Java, C++, and Python  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 📚 CS student at university
+- 🛠️ Passionate about programming and problem-solving
+- 🚀 Always learning new technologies
 
-- 🌱 I’m currently focusing on learning mobile apps development, web design and general IT topics.
-- 📚 I'm enjoy Graphics designer, PC Gaming and Electronics devices maintain.
-- 🔭 I'm working on have programming skills in java, kotlin, C++ and Python.
+---
+
+## 🛠️ Skills
+- Java
+- C++
+- Python
+- Git & GitHub
+- Algorithms & Data Structures
+
+---
+
+## 📂 Projects
+
+Selected Android applications demonstrating different categories:
+
+- 📰 **Iraq News App** – Latest Iraqi news in a clean and simple interface.
+- 📚 **Free Quiz App** – Interactive quizzes across multiple topics.
+- 📖 **Stories & Tales App** – A mobile app for reading short stories and tales.
+- 🎮 **HD Wallpapers App** – High-quality wallpaper collection for Android devices.
+- ⚙️ **Video Downloader** – Utility app for downloading videos.
+- 🛍️ **Ads Store** – Advertisement and promotional content platform.
+- 📘 **Grammar Learning App** – App designed to improve grammar skills.
+- 🔐 **Social Login App** – Android authentication using Firebase and social platforms.
+
+- ➕ **40+ additional Android projects** in news, education, utilities, media, and business applications.
 
 
+> More projects coming soon...
 
-<!-- <b>My Stackoverflow profile</b>
-<br>
-<a href="https://stackoverflow.com/users/7734566/ali-haider"><img src="https://stackoverflow.com/users/flair/7734566.png?theme=clean" width="208" height="58" alt="profile for Ali Haider at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ali Haider at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali-Haider8&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Haider8&layout=compact)
+
+---
+
+## 📫 Contact Me
+- Telegram: https://t.me/ali_haider_8
+- Email: ali88dev@gmail.com
