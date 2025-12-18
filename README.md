@@ -41,11 +41,22 @@ Selected Android applications demonstrating different categories:
 > More projects coming soon...
 
 ---
-
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali-Haider8&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Haider8&layout=compact)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ali-Haider8&show_icons=true&theme=transparent" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Haider8&layout=compact" />
+  </a>
+</p>
+
+## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ali-Haider8)](https://git.io/streak-stats)
 
 ---
 
