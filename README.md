@@ -39,8 +39,6 @@ Selected Android applications demonstrating different categories:
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ali-Haider8&hide=icons&show_icons=false&theme=transparent)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Haider8&layout=compact&theme=transparent)
 
 ---
