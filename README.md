@@ -37,12 +37,11 @@ Selected Android applications demonstrating different categories:
 ➕ **40+ additional Android projects** in news, education, tools, media, and service applications.
 
 ---
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Haider8&hide=icons&show_icons=false&theme=transparent" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Haider8&layout=compact&theme=transparent" height="160"/>
-</p>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ali-Haider8&hide=icons&show_icons=false&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Haider8&layout=compact&theme=transparent)
 
 ---
 ## 🔍 Find me at
