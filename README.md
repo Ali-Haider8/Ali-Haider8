@@ -40,15 +40,20 @@ Selected Android applications demonstrating different categories:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Haider8&show_icons=true&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Haider8&hide=icons&show_icons=false&theme=transparent" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Haider8&layout=compact&theme=transparent" height="160"/>
 </p>
 
 ---
 ## 🔍 Find me at
 
-[![Stack Overflow Badge](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/7734566/ali-haider)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ali8dev)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9647746240688)
-
+<a href="https://stackoverflow.com/users/7734566/ali-haider" target="_blank">
+  <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white">
+</a>
+<a href="https://t.me/ali8dev" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+<a href="https://wa.me/9647746240688" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
 
