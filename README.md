@@ -37,9 +37,9 @@ Selected Android applications demonstrating different categories:
 ➕ **40+ additional Android projects** in news, education, tools, media, and service applications.
 
 ---
-## 📊 GitHub Analytics
+## 🎯 Technologies & Tools
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Haider8&layout=compact&theme=transparent)
+
 <p align="left">
 
   <!-- IDEs -->
@@ -76,15 +76,9 @@ Selected Android applications demonstrating different categories:
 </p>
 
 ---
-## 🔍 Find me at
+##
 
 <a href="https://stackoverflow.com/users/7734566/ali-haider" target="_blank">
   <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white">
-</a>
-<a href="https://t.me/ali8dev" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-<a href="https://wa.me/9647746240688" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
