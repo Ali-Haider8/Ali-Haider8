@@ -41,7 +41,7 @@
   <a href="https://stackoverflow.com/users/7734566/ali-haider">
     <img src="https://img.shields.io/badge/StackOverflow-FE7A16?logo=stackoverflow&logoColor=white">
   </a>
-  <a href="https://t.me/ali8dev" style="margin-left:6px;">
+  <a href="https://t.me/ali_haider_8" style="margin-left:6px;">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white">
   </a>
 </p>
