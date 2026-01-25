@@ -4,6 +4,10 @@
 💻 Android & Software Development Enthusiast  
 🚀 Learning, building, and improving every day
 
+### 🎓 Academic Journey
+- **2024 – 2025**: Computer Engineering — University of Al-Shatra
+- **2025 – Present**: Computer Science — University of Kufa
+
 ---
 ## 🛠️ Technologies & Tools
 
