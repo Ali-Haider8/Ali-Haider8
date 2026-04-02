@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Ali Haider
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ali-Haider8&theme=github-dark-blue&hide_longest_streak=true)](https://git.io/streak-stats)
+💻 First-year CS student in Faculty of Computer Science and Mathematics (UoK)
+
+📱 Built Some Android apps using Java
+
+🚀 Working on learning and improving my skills
+
 ---
 
-## 📱 Selected Android Apps
-- 📰 Iraq News App
-- 📚 Stories & Tales App
-- 🎮 Quiz App
-- 🖼️ HD Wallpapers App
+📊 My GitHub activity overview
 
-> ➕ **50+ additional Android apps** <br> 
-> 📲 *Many of them were previously published on Google Play*
-
-<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ali-Haider8&theme=android-dark&hide_total_contributions=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali-Haider8&theme=github_dark" width="500"/>
+</div>
