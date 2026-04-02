@@ -1,16 +1,11 @@
 # 👋 Hi, I'm Ali Haider
 
-💻 First-year CS student in Faculty of Computer Science and Mathematics (UoK)
-
-📱 Built Some Android apps using Java
-
+💻 First-year CS student in Faculty of Computer Science and Mathematics (UoK)  
+📱 Built several Android apps using Java  
 🚀 Working on learning and improving my skills
 
 ---
 
-📊 My GitHub activity overview
+📊 GitHub Activity
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Ali-Haider8&theme=android-dark&hide_total_contributions=true" />
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali-Haider8&theme=github_dark" width="500"/> -->
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ali-Haider8&theme=meta-light&border_radius=5&card_width=465&type=png&hide_total_contributions=true)](https://git.io/streak-stats)
