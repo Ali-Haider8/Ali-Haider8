@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Ali Haider
 
-<div align="left">
-  <img width="550" src="https://streak-stats.demolab.com?user=Ali-Haider8&theme=transparent" alt="Streak Stats" />
-</div>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ali-Haider8&theme=github-dark-blue&hide_longest_streak=true)](https://git.io/streak-stats)
 ---
 
 ## 📱 Selected Android Apps
