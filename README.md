@@ -10,7 +10,7 @@
 
 📊 My GitHub activity overview
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=Ali-Haider8&theme=android-dark&hide_total_contributions=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali-Haider8&theme=github_dark" width="500"/>
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali-Haider8&theme=github_dark" width="500"/> -->
 </div>
