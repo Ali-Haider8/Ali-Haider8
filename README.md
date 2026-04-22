@@ -8,4 +8,4 @@
 
 📊 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ali-Haider8&theme=meta-light&border_radius=5&card_width=465&type=png&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ali-Haider8&theme=prussian&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
