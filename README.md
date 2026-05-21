@@ -8,8 +8,11 @@
 
 📊 GitHub Activity
 
-<!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ali-Haider8&theme=prussian&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
--->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ali-Haider8&theme=github-dark-blue&hide_total_contributions=true&hide_current_streak=true)](https://git.io/streak-stats)
+<p align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Ali-Haider8&theme=github-dark-blue&card_width=250&card_height=196&hide_total_contributions=true&hide_longest_streak=true" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Ali-Haider8&theme=github-dark-blue&mode=weekly&card_width=250&card_height=196&hide_total_contributions=true&hide_current_streak=true" />
+  </a>
+</p>
