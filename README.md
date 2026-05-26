@@ -19,10 +19,3 @@
     <img src="https://streak-stats.demolab.com?user=Ali-Haider8&theme=github-dark-blue&mode=weekly&card_width=250&card_height=196&hide_total_contributions=true&hide_current_streak=true" />
   </a>
 </p>
-
----
-
-✨ Mira's Message
-
-📅 Date: 2026-05-26
-💬 "Mira"
