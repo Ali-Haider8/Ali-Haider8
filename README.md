@@ -4,6 +4,8 @@
 📱 Built several Android apps using Java  
 🚀 Working on learning and improving my skills
 
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/Ali-Haider8.svg)](https://ghcommits.com/u/Ali-Haider8)
+
 ---
 
 📊 GitHub Activity
