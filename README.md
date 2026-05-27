@@ -21,3 +21,24 @@
     <img src="https://streak-stats.demolab.com?user=Ali-Haider8&theme=github-dark-blue&mode=weekly&card_width=250&card_height=196&hide_total_contributions=true&hide_current_streak=true" />
   </a>
 </p>
+
+## 🛠️ Skills
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=kotlin" />
+<img src="https://skillicons.dev/icons?i=androidstudio" />
+<img src="https://skillicons.dev/icons?i=eclipse" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=devto" />
+<img src="https://skillicons.dev/icons?i=sublime" />
+<img src="https://skillicons.dev/icons?i=idea" />
+<img src="https://skillicons.dev/icons?i=ps" />
+<img src="https://skillicons.dev/icons?i=stackoverflow" />
+<img src="https://skillicons.dev/icons?i=windows" />
+
+
+</p>
