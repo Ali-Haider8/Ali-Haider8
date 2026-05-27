@@ -8,7 +8,7 @@
 
 ---
 
-📊 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
    <a href="https://git.io/streak-stats">
