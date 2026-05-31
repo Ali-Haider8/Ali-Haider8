@@ -36,5 +36,4 @@
 <img src="https://skillicons.dev/icons?i=idea" />
 <img src="https://skillicons.dev/icons?i=ps" />
 
-
 </p>
