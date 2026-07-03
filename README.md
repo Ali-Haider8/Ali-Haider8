@@ -16,9 +16,11 @@
   </a>
 
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-rosy-delta.vercel.app?user=Ali-Haider8&theme=github-dark-blue&mode=weekly&card_width=400&hide_total_contributions=true" />
+  <img src="https://github-readme-streak-stats-rosy-delta.vercel.app?user=Ali-Haider8&theme=github-dark-blue&mode=weekly&card_width=200&hide_total_contributions=true&hide_current_streak=true" alt="GitHub Streak" />
   </a>
 </p>
+
+
 
 
 ## 🛠️ Skills
