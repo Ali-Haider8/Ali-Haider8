@@ -31,21 +31,22 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali-Haider8&theme=tokyonight" />
+
+  <span style="display: inline-block; margin-right: 15px;">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali-Haider8&theme=github_dark"
+      height="200"
+    />
+  </span>
+
+  <span style="display: inline-block;">
+    <a href="https://github-readme-streak-stats-rosy-delta.vercel.app">
+      <img 
+        src="https://github-readme-streak-stats-rosy-delta.vercel.app?user=Ali-Haider8&theme=github-dark-blue&card_width=200&hide_total_contributions=true&hide_longest_streak=true"
+        height="200"
+      />
+    </a>
+  </span>
+
 </p>
 
-<p align="center">
-  <a href="https://github-stats-extended.vercel.app/api?username=Ali-Haider8&show_icons=true&include_all_commits=true&theme=github_dark">
-    <img src="https://github-stats-extended.vercel.app/api?username=Ali-Haider8&show_icons=true&include_all_commits=true&theme=github_dark" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-rosy-delta.vercel.app?user=Ali-Haider8&theme=github-dark-blue&card_width=200&hide_total_contributions=true&hide_longest_streak=true" />
-  </a>
-
-  <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats-rosy-delta.vercel.app?user=Ali-Haider8&theme=github-dark-blue&mode=weekly&card_width=200&hide_total_contributions=true&hide_current_streak=true" alt="GitHub Streak" />
-  </a>
-</p>
