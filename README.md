@@ -41,3 +41,10 @@
 <img src="https://skillicons.dev/icons?i=py" />
 
 </p>
+
+
+---
+## 📊 Profile Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali-Haider8&theme=tokyonight" />
+</p>
