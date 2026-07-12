@@ -32,7 +32,7 @@
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali-Haider8&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali-Haider8&theme=dracula"
     height="200"
   />
 </p>
@@ -42,7 +42,7 @@
   <span style="display: inline-block; margin-right: 15px;">
     <a href="https://github-readme-streak-stats-rosy-delta.vercel.app">
       <img 
-        src="https://github-readme-streak-stats-rosy-delta.vercel.app?user=Ali-Haider8&theme=github-dark-blue&card_width=200&hide_total_contributions=true&hide_longest_streak=true"
+        src="https://github-readme-streak-stats-rosy-delta.vercel.app?user=Ali-Haider8&theme=dracula&card_width=200&hide_total_contributions=true&hide_longest_streak=true"
         height="200"
       />
     </a>
@@ -50,7 +50,7 @@
 
   <span style="display: inline-block;">
     <img 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ali-Haider8&theme=github_dark"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ali-Haider8&theme=dracula"
       height="200"
     />
   </span>
