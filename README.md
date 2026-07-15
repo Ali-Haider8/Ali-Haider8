@@ -42,7 +42,7 @@
   <span style="display: inline-block; margin-right: 15px;">
     <a href="https://github-readme-streak-stats-rosy-delta.vercel.app">
       <img 
-        src="https://github-readme-streak-stats-rosy-delta.vercel.app?user=Ali-Haider8&theme=dracula&card_width=200&hide_total_contributions=true&hide_longest_streak=true"
+        src="https://github-readme-streak-stats-rosy-delta.vercel.app?user=Ali-Haider8&theme=dracula&card_width=201&hide_total_contributions=true&hide_longest_streak=true"
         height="200"
       />
     </a>
