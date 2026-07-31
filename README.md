@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=your-github-Ali-Haider8)
+
 # 👋 Hi, I'm Ali Haider
 
 💻 First-year CS student in Faculty of Computer Science and Mathematics (UoK)  
