@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-Ali-Haider8&style=pixel)
+![](https://komarev.com/ghpvc/?username=Ali-Haider8&style=pixel)
 
 # 👋 Hi, I'm Ali Haider
 
